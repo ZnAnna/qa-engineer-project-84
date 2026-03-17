@@ -1,0 +1,9 @@
+  - summary: |
+    Загрузка страницы интернет-магазина https://products-store.hexlet.app/
+  requirement: |
+    Сайт магазина загружается на устройстве, отображатся разделы, товары
+  steps:
+    - Открыть браузер
+    - В строке поиска ввести https://products-store.hexlet.app/
+  expected-result: |
+    Пользователь должен попасть на главную страницу сайта https://products-store.hexlet.app/
