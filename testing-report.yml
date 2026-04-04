@@ -3,23 +3,23 @@
   status: pass
 
 - summary: |
-    Функциональность кнопки Store
+    Переход в каталог по кнопке
   status: pass
 
 - summary: |
-    Функциональность кнопки Cart
+    Переход в корзину по кнопке
   status: pass
 
 - summary: |
-    Функциональность кнопки Clear cart в Cart
+    Удаление всех товаров из корзины
   status: pass
 
 - summary: |
-    Функциональность кнопки Continue shopping в Cart
+    Переход в каталог по кнопке из корзины
   status: pass
 
 - summary: |
-    Функциональность кнопки Add to cart
+    Добавление товара в корзину
   status: pass
 
 - summary: |
@@ -39,7 +39,7 @@
   status: fail
 
 - summary: |
-    Функциональность кнопки Delete в строке с товаром
+    Удаление товара из корзины
   status: pass
 
 - summary: |
@@ -76,6 +76,10 @@
 
 - summary: |
     Переключение языка интерфейса на Español
+  status: pass
+
+- summary: |
+    Переключение языка интерфейса на English
   status: pass
 
 - summary: |
@@ -164,4 +168,20 @@
 
 - summary: |
     Синхронизация ограничения остатка при добавлении товара с разных страниц
+  status: pass
+
+- summary: |
+    Возможность оплатить заказ
+  status: fail
+
+- summary: |
+    Переход в группу товаров по тэгу
+  status: fail
+
+- summary: |
+    Переход следующую страницу каталога
+  status: fail
+
+- summary: |
+    Проверка строки поиска
   status: pass
